@@ -4,6 +4,7 @@ import os
 import sys
 # pip install pyperclip
 import pyperclip
+import pyperclip
 import hashlib
 print("A hashing project by: Sapphire code")
 
