@@ -5,7 +5,7 @@ import sys
 # pip install pyperclip
 import pyperclip
 import hashlib
-print("A hashing project by: Sapphire code")
+print("A hashing project by: SapphireKR")
 
 def sha256():
                 usrinput = input("Convert to SHA-256 hashed text: ")
